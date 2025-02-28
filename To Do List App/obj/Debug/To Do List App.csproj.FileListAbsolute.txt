@@ -1,0 +1,79 @@
+D:\To Do List App\bin\To Do List App.dll.config
+D:\To Do List App\bin\To Do List App.dll
+D:\To Do List App\bin\To Do List App.pdb
+D:\To Do List App\bin\roslyn\csc.exe
+D:\To Do List App\bin\roslyn\csc.exe.config
+D:\To Do List App\bin\roslyn\csc.rsp
+D:\To Do List App\bin\roslyn\csi.exe
+D:\To Do List App\bin\roslyn\csi.exe.config
+D:\To Do List App\bin\roslyn\csi.rsp
+D:\To Do List App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\To Do List App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\To Do List App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\To Do List App\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\To Do List App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\To Do List App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\To Do List App\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\To Do List App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\To Do List App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\To Do List App\bin\roslyn\Microsoft.Managed.Core.targets
+D:\To Do List App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\To Do List App\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\To Do List App\bin\roslyn\System.AppContext.dll
+D:\To Do List App\bin\roslyn\System.Collections.Immutable.dll
+D:\To Do List App\bin\roslyn\System.Console.dll
+D:\To Do List App\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\To Do List App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\To Do List App\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\To Do List App\bin\roslyn\System.Globalization.Calendars.dll
+D:\To Do List App\bin\roslyn\System.IO.Compression.dll
+D:\To Do List App\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\To Do List App\bin\roslyn\System.IO.FileSystem.dll
+D:\To Do List App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\To Do List App\bin\roslyn\System.Net.Http.dll
+D:\To Do List App\bin\roslyn\System.Net.Sockets.dll
+D:\To Do List App\bin\roslyn\System.Reflection.Metadata.dll
+D:\To Do List App\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\To Do List App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\To Do List App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\To Do List App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\To Do List App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\To Do List App\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\To Do List App\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\To Do List App\bin\roslyn\System.ValueTuple.dll
+D:\To Do List App\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\To Do List App\bin\roslyn\System.Xml.XmlDocument.dll
+D:\To Do List App\bin\roslyn\System.Xml.XPath.dll
+D:\To Do List App\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\To Do List App\bin\roslyn\vbc.exe
+D:\To Do List App\bin\roslyn\vbc.exe.config
+D:\To Do List App\bin\roslyn\vbc.rsp
+D:\To Do List App\bin\roslyn\VBCSCompiler.exe
+D:\To Do List App\bin\roslyn\VBCSCompiler.exe.config
+D:\To Do List App\bin\Antlr3.Runtime.dll
+D:\To Do List App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\To Do List App\bin\Microsoft.Web.Infrastructure.dll
+D:\To Do List App\bin\Newtonsoft.Json.dll
+D:\To Do List App\bin\System.Web.Helpers.dll
+D:\To Do List App\bin\System.Web.Mvc.dll
+D:\To Do List App\bin\System.Web.Optimization.dll
+D:\To Do List App\bin\System.Web.Razor.dll
+D:\To Do List App\bin\System.Web.WebPages.Deployment.dll
+D:\To Do List App\bin\System.Web.WebPages.dll
+D:\To Do List App\bin\System.Web.WebPages.Razor.dll
+D:\To Do List App\bin\WebGrease.dll
+D:\To Do List App\bin\System.Web.Helpers.xml
+D:\To Do List App\bin\System.Web.Mvc.xml
+D:\To Do List App\bin\System.Web.Optimization.xml
+D:\To Do List App\bin\System.Web.Razor.xml
+D:\To Do List App\bin\System.Web.WebPages.xml
+D:\To Do List App\bin\System.Web.WebPages.Deployment.xml
+D:\To Do List App\bin\System.Web.WebPages.Razor.xml
+D:\To Do List App\bin\Newtonsoft.Json.xml
+D:\To Do List App\bin\Antlr3.Runtime.pdb
+D:\To Do List App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\To Do List App\obj\Debug\To Do List App.csproj.AssemblyReference.cache
+D:\To Do List App\obj\Debug\To Do List App.csproj.CoreCompileInputs.cache
+D:\To Do List App\obj\Debug\To Do List App.csproj.CopyComplete
+D:\To Do List App\obj\Debug\To Do List App.dll
+D:\To Do List App\obj\Debug\To Do List App.pdb
