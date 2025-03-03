@@ -1,0 +1,10 @@
+D:\CarRacingGame\bin\Debug\CarRacingGame.exe.config
+D:\CarRacingGame\bin\Debug\CarRacingGame.exe
+D:\CarRacingGame\bin\Debug\CarRacingGame.pdb
+D:\CarRacingGame\obj\Debug\CarRacingGame.csproj.AssemblyReference.cache
+D:\CarRacingGame\obj\Debug\CarRacingGame.Form1.resources
+D:\CarRacingGame\obj\Debug\CarRacingGame.Properties.Resources.resources
+D:\CarRacingGame\obj\Debug\CarRacingGame.csproj.GenerateResource.cache
+D:\CarRacingGame\obj\Debug\CarRacingGame.csproj.CoreCompileInputs.cache
+D:\CarRacingGame\obj\Debug\CarRacingGame.exe
+D:\CarRacingGame\obj\Debug\CarRacingGame.pdb
